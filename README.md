@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eghhgdhg
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in basketball and conmmunicating with diffirent people
+- 🌱 I’m currently learning lammps and module kinetic model
 
 
 <!---
